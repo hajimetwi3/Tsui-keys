@@ -361,4 +361,18 @@ offset  len  field      value
 
 ## Third-party
 
-なし。外部モジュールには依存しません。
+なし。外部モジュールには依存しません。  
+
+---  
+
+## アナウンス  
+- note.comで記事を公開中です。  
+  [https://note.com/hajimetwi3/n/nece01928dc72](https://note.com/hajimetwi3/n/nece01928dc72)
+
+- Xでもアナウンスしています。  
+  [https://x.com/hajimetwi3/status/2049029946711109731](https://x.com/hajimetwi3/status/2049029946711109731)
+
+## 作者  
+
+[Hajime Tsui](https://hajimetwi3.github.io/hajimetwi3/)  
+
