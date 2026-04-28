@@ -340,6 +340,10 @@ offset  len  field      value
 - ブラウザ拡張機能（`file://` で最小化可）
 - ブラウザや OS 自体の重大な脆弱性
 
+## 注意事項  
+- 本サービスは現状のまま提供されており、動作の保証はありません。利用によって生じた損害について、作成者は一切の責任を負いません。自己責任でご利用ください。
+- 現在、外部からのプルリクエストは受け付けていません（This repository does not accept external pull requests.  
+
 ## ライセンス
 
 [MIT License](LICENSE)
