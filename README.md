@@ -9,7 +9,12 @@
 
 ---
 
-## ダウンロード
+## Cloudflare Pages版
+
+以下URLからご利用可能です。  
+[https://github.com/hajimetwi3/Tsui-keys](https://github.com/hajimetwi3/Tsui-keys)  
+
+## ダウンロード版
 
 最新版は GitHub リポジトリの Releases から配布しています。（※まだ、予定です。）
 
