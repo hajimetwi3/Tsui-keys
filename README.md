@@ -1,5 +1,7 @@
 # Tsui keys
 
+> 🌐 [English version](README.en.md) (machine-translated)  
+
 ブラウザで完結するローカルパスワードマネージャー。外部送信なし、アカウントなし、同期なし。
 
 > Cloudflare Pages 経由でアクセスする場合、初回アクセス時とアプリ更新時に Cloudflare からの通信が発生します。アプリ起動後、本アプリ本体が vault 内容・入力内容を外部送信することはありません。
