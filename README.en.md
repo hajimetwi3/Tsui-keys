@@ -364,4 +364,18 @@ The following are out of scope for this app:
 
 ## Third-party
 
-None. No dependency on external modules.
+None. No dependency on external modules.  
+
+---  
+
+## Announcements  
+- A release article is available on note.com (in Japanese).  
+  [https://note.com/hajimetwi3/n/nece01928dc72](https://note.com/hajimetwi3/n/nece01928dc72)
+
+- Announced on X as well.  
+  [https://x.com/hajimetwi3/status/2049029946711109731](https://x.com/hajimetwi3/status/2049029946711109731)
+
+## Author  
+
+[Hajime Tsui](https://hajimetwi3.github.io/hajimetwi3/)  
+
