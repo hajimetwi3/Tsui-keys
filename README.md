@@ -9,7 +9,7 @@
 
 ---
 
-## Cloudflare Pages版
+## ウェブサイト版（Cloudflare Pages：PWA対応）
 
 以下URLからご利用可能です。  
 [https://tsuikeys.pages.dev/](https://tsuikeys.pages.dev/)  
