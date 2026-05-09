@@ -378,3 +378,10 @@ offset  len  field      value
 
 [Hajime Tsui](https://hajimetwi3.github.io/hajimetwi3/)  
 
+---
+
+## RELATED  
+
+本アプリは Tsui series(静かな道具たち)の一つです。  
+[https://hajimetwi3.github.io/hajimetwi3/Tsui-series/](https://hajimetwi3.github.io/hajimetwi3/Tsui-series/)  
+
